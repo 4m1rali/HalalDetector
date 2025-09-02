@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="quran",
-    version="1.0.0",
+    version="2.0.0",
     author="Quran Library",
     author_email="",
     description="AI-powered halal/haram detection library",
