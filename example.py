@@ -1,4 +1,4 @@
-from quran import HalalDetector
+from quran import HalalDetector !
 
 detector = HalalDetector()
 
